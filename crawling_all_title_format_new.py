@@ -1,3 +1,4 @@
+# 네이버 건강컬럼 제목- 본문 타입 + 본문내(QnA추출 추가) 페이지 스크래핑
 import urllib.request
 from bs4 import BeautifulSoup
 import json

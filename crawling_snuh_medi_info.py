@@ -1,3 +1,4 @@
+# 네이버 서울대학교병원 의학정보 스크래핑
 import urllib.request
 from bs4 import BeautifulSoup
 import json

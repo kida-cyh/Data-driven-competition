@@ -1,3 +1,4 @@
+# 네이버 건강컬럼 본문 QnA타입의 페이지 스크래핑
 import urllib.request
 from bs4 import BeautifulSoup
 import json

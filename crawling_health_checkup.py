@@ -1,3 +1,4 @@
+# 네이버 건강검진 QnA 페이지 스크래핑
 import urllib.request
 from bs4 import BeautifulSoup
 import time
