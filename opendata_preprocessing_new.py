@@ -1,3 +1,5 @@
+# 국가중점데이터 질의응답 변환
+# 가입자일련번호와 질병코드 중복되는 데이터 삭제 후 데이터 처리
 import pandas as pd
 import json
 
