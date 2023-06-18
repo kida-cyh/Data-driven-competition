@@ -108,7 +108,7 @@ try:
         disease_name_suffix = disease_name + suffix
 
         # 질문 추출
-        question = f"{disease_name}의 발생현황과 진료현황에 대해 설명해줘" 
+        question = f"{disease_name}의 발생현황에 대해 알려주세요" 
 
         # 답변 추출         
         answer = f"2019년 기준으로 {disease_name_suffix} {disease_frequency}명의 환자가 발생하였습니다. 전체 환자 중 {gender_percentage}%가 {gender}환자이며, 연령대 별로는 {age}가 지역별로는 {location}지역에서 가장 많은 환자가 보고되었고, 월별로는 {month}월에 {month_frequency}명으로 발병이 가장 많았습니다. "
